@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rajatdixit1997
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL,Tableau,PowerBI,Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +91-8441941239 , rajatdixit09@gmail.com
 
 <!---
